@@ -7,3 +7,4 @@
 #不排除 .gitignore和App.class
 !.gitignore
 !App.class
+!abc.class
